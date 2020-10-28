@@ -1,1 +1,3 @@
-# io_dup
+# ne84wa.github.io
+# kokok
+簡易ページ
